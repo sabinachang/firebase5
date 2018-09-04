@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1059314126277",
+    "firebase_url": "https://fir-5-ed131.firebaseio.com",
+    "project_id": "fir-5-ed131",
+    "storage_bucket": "fir-5-ed131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059314126277:android:5351e88a8eca68c7",
+        "android_client_info": {
+          "package_name": "com.enhan.sabina.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059314126277-ck4j1dp2qq5prq7hghriesr32s8763el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enhan.sabina.firebaseapp",
+            "certificate_hash": "f870025d8f413d269bd8df0ff72c267bb8f2be16"
+          }
+        },
+        {
+          "client_id": "1059314126277-5pov2ekij5lcq5a9k3c8897od2ugtsmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpZXuS3K-oiLu25nhS4fvvxjcx2u5mnhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059314126277-5pov2ekij5lcq5a9k3c8897od2ugtsmg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059314126277-j3u4ra4v6b4jrv8nbjgj7dv1tpnmd07d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
